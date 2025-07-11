@@ -46,8 +46,10 @@
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel)
 
 ## 📫 Contact
-- [LinkedIn](https://www.linkedin.com/in/roger-sanchez-fernandez/)
-- Email: roger190892@gmail.com
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roger-sanchez-fernandez/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:roger190892@gmail.com)
+
 
 <!--
 **ROGER-SAN-FER/ROGER-SAN-FER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
